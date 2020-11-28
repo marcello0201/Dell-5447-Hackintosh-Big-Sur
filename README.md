@@ -1,6 +1,6 @@
 ## Dell Inspiron 5447
 
-![Screenshot](colocar)
+![Screenshot](https://github.com/marcello0201/Dell-5447-Hackintosh-Big-Sur/blob/main/imagem/Big%20Sur%20on%20Dell%205447.png)
 
 - Bios versão :  A12
 - Processador: Intel Core i7 4510U @2.00 GHz
