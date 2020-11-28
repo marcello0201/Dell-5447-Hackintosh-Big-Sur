@@ -33,4 +33,4 @@
 -------------------
 ## Notas dessa versão:
 -Bluetooth funcioando de forma parcial.
-- JackFix2.5 - corrige o chiado dos fones de ouvido,precisa ser personalizado.
+- JackFix2.5 - corrige o chiado dos fones de ouvido ao iniciar o Mac.
