@@ -33,4 +33,4 @@
 -------------------
 ## Notas dessa versão:
 -Bluetooth funcioando de forma parcial.
-- JackFix2.5 - corrige o chiado dos fones de ouvido ao iniciar o Mac.
+- JackFix2.5 - corrige o chiado dos fones de ouvido ao iniciar o Mac veja em : https://github.com/marcello0201/Dell-5447-Hackintosh-Big-Sur/blob/main/PT_Tutorial_Audio.md
